@@ -1,7 +1,7 @@
 This Repository to Help Find Practical Codes and Outputs Only
 
 # Welcome To DSE Sem 3
-- Get Practical codes and outputs
+- Get Practical Codes And Outputs
 
 # Index
 - [Computetr Graphics](https://github.com/NEWBIENOOB-0/compcodes/tree/main/dse/Sem%203/Computer%20Graphics)
