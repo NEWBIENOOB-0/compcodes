@@ -1,7 +1,7 @@
 This Repository to Help Find Practical Codes and Outputs Only
 
-# Welcome To SSPM DSE
-- Get Practical Notes,Experiments
+# Welcome To DSE Sem 3
+- Get Practical Ncodes and outputs
 
 # Index
 - [Computetr Graphics](https://github.com/NEWBIENOOB-0/compcodes/tree/main/dse/Sem%203/Computer%20Graphics)
