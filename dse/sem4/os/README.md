@@ -1,6 +1,6 @@
 # os
 
-- index
+### index
 
   [3. Aim: Study of First-Come-First-Serve (FCFS) Scheduling Algorithm](https://github.com/NEWBIENOOB-0/compcodes/blob/main/dse/sem4/os/3.fcfs.md)
 
