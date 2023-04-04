@@ -1,6 +1,6 @@
 # DBMS
 
-# Index
+### Index
 
 [3. Aim: Study of Data Definition Language (DDL) & Data Manipulation Language (DML). ](https://github.com/NEWBIENOOB-0/compcodes/blob/main/dse/sem4/dbms/3.ddlandml.md)
 
